@@ -41,12 +41,12 @@ ul{
 }
 
 li{
-    background-color: greenyellow;
+    
     margin: 4px;
     padding: 5px;
     border: 1px solid grey;
     width: 120px;
-    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 50%, rgba(greenyellow)100%);
+    background: linear-gradient(180deg, white, greenyellow);
 }
 
 li:hover{
@@ -84,6 +84,7 @@ a{
 }
 #current{
     background-color: rgba(237, 144, 45, 0.822);
+    background: linear-gradient(180deg, white ,rgba(237, 144, 45, 0.822));
 }
 
 #current:hover{
