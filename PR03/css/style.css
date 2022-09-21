@@ -1,0 +1,26 @@
+h1{
+    background-color: orange;
+    margin-top: 0;
+}
+
+body{
+    margin: 0%;
+    background-color: rgb(255, 229, 182);
+}
+
+h2{
+    color: rgb(136, 203, 225);
+    font-style: italic;
+}
+
+span{
+    color: rgb(136, 203, 225);
+    font-style: italic;
+}
+p{
+    margin-left: 2em;
+}
+
+h4{
+    color: grey;
+}
